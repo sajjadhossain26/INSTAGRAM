@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAC,AAAA,aAAa,CAAA;EACN,QAAQ,EAAE,QAAQ;CAQpB;;AATL,AAGQ,aAHK,CAGL,aAAa,CAAA;EACH,QAAQ,EAAE,QAAQ;EACjB,KAAK,EAAE,GAAG;EACV,IAAI,EAAE,GAAG;EACT,GAAG,EAAE,EAAE;CAChB",
+    "sources": [
+        "AuthTemp.scss"
+    ],
+    "names": [],
+    "file": "AuthTemp.css"
+}

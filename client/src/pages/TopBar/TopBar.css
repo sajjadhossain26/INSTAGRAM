@@ -1,0 +1,70 @@
+.topbar-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: white;
+  padding: 10px 0px;
+  border-top: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.topbar-container .topbar-wrapper {
+  width: 950px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.topbar-container .topbar-wrapper .logo img {
+  width: 100px !important;
+}
+
+.topbar-container .topbar-wrapper .search {
+  width: 250px;
+  background-color: #efefef;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.topbar-container .topbar-wrapper .search button {
+  border: none;
+  padding: 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.topbar-container .topbar-wrapper .search input {
+  border: none;
+  background-color: #efefef;
+  padding-left: 5px;
+}
+
+.topbar-container .topbar-wrapper .user-activity ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 15px;
+}
+
+.topbar-container .topbar-wrapper .user-activity ul img {
+  width: 30px;
+  height: 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=TopBar.css.map */

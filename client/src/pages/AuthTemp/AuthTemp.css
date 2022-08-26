@@ -1,0 +1,11 @@
+.left-img-box {
+  position: relative;
+}
+
+.left-img-box .absolute-img {
+  position: absolute;
+  width: 54%;
+  left: 34%;
+  top: 4%;
+}
+/*# sourceMappingURL=AuthTemp.css.map */

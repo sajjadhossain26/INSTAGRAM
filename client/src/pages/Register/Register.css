@@ -1,0 +1,28 @@
+.right-form p {
+  text-align: center;
+  color: gray;
+}
+
+.right-form .login-facebook.register {
+  background-color: #0095f6;
+  color: white !important;
+  padding: 5px 0px;
+  width: 80%;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.right-form .register-auth-text {
+  font-size: 12px;
+}
+
+.right-form .register-auth-text p {
+  margin-top: 10px;
+}
+
+.right-form .register-auth-text p a {
+  color: #3c3b3b;
+}
+/*# sourceMappingURL=Register.css.map */
